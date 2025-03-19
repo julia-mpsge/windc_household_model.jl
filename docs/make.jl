@@ -6,13 +6,14 @@ DocMeta.setdocmeta!(windc_household_model, :DocTestSetup, :(using windc_househol
 
 const _PAGES = [
     "Introduction" => ["index.md"],
+    "Data Overview" => ["set_overview.md", "parameter_overview.md"],
 ]
 
 
 makedocs(;
     modules=[windc_household_model],
     authors="Mitch Phillipson",
-    sitename="windc_household_model.jl",
+    sitename="WiNDC Household",
     format=Documenter.HTML(;
         canonical="https://julia-mpsge.github.io/windc_household_model.jl",
         edit_link="main",
