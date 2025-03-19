@@ -1,2 +1,7 @@
+name = "windc_household_model"
+uuid = "226c78eb-f4af-4f22-8a44-aecff791ec14"
+authors = ["Mitch Phillipson <mitch.phillipson@gmail.com>"]
+version = "0.1.0"
+
 [deps]
 MPSGE = "d5dc2f44-7ae2-49e9-bc77-b47b6bca565d"
