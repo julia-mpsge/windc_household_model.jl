@@ -1,3 +1,9 @@
+"""
+    household_model(data)
+
+Constructs a MPSGE model for the WiNDC household model. The model is constructed 
+using the data provided by the [`load_data`](@ref) function.
+"""
 function household_model(data)
         
     TRN = String.(data["sets"]["trn"])
