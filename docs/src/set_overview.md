@@ -2,12 +2,12 @@
 
 | Set                                     | Description                  |
 |:----------------------------------------|:-----------------------------|
-| [r](#r----States)                       | States                       |
-| [s](#s----Goods-and-sectors-from-BEA)   | Goods and sectors from BEA   |
-| [gm](#s----Goods-and-sectors-from-BEA)     | Margin related sectors       |
-| [m](#m----Margins-(trade-or-transport)) | Margins (trade or transport) |
-| [h](#h----Household-categories)         | Household categories         |
-| [trn](#trn----transfer-types)           | Transfer types               |
+| [r](#r-–-States)                       | States                       |
+| [s](#s-–-Goods-and-sectors-from-BEA)   | Goods and sectors from BEA   |
+| [gm](#s-–-Goods-and-sectors-from-BEA)     | Margin related sectors       |
+| [m](#m-–-Margins-(trade-or-transport)) | Margins (trade or transport) |
+| [h](#h-–-Household-categories)         | Household categories         |
+| [trn](#trn-–-Transfer-types)           | Transfer types               |
 
 ## Set Descriptions
 ### r -- States
